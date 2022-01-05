@@ -1,0 +1,53 @@
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceMVC.deps.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceMVC.runtimeconfig.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceMVC.runtimeconfig.dev.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceMVC.dll
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceMVC.pdb
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceMVC.Views.dll
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceMVC.Views.pdb
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\bin\Debug\netcoreapp2.1\EcommerceMVC.deps.json
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\bin\Debug\netcoreapp2.1\EcommerceMVC.runtimeconfig.json
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\bin\Debug\netcoreapp2.1\EcommerceMVC.runtimeconfig.dev.json
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\bin\Debug\netcoreapp2.1\EcommerceMVC.dll
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\bin\Debug\netcoreapp2.1\EcommerceMVC.pdb
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\bin\Debug\netcoreapp2.1\EcommerceMVC.Views.dll
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\bin\Debug\netcoreapp2.1\EcommerceMVC.Views.pdb
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceMVC.deps.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceMVC.runtimeconfig.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceMVC.runtimeconfig.dev.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceMVC.dll
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceMVC.pdb
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceMVC.Views.dll
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceMVC.Views.pdb
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.csproj.CoreCompileInputs.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.RazorAssemblyInfo.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.RazorAssemblyInfo.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.AssemblyInfoInputs.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.AssemblyInfo.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.TagHelpers.input.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.TagHelpers.output.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.RazorCoreGenerate.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\CreateCustomer.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\CustomerIndex.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Items\AllItems.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Items\CreateItems.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Items\CreateItemsviewmodel.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Items\EditItem.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\OrdersMvc\AllOrders.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.RazorTargetAssemblyInfo.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.RazorTargetAssemblyInfo.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.Views.pdb
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.dll
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.pdb
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.csproj.CopyComplete
+C:\Users\s343417\source\repos\Ecommerce\EcommerceMVC\obj\Debug\netcoreapp2.1\EcommerceMVC.csprojAssemblyReference.cache

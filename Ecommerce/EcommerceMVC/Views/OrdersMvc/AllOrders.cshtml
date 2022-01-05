@@ -1,0 +1,66 @@
+﻿@model IEnumerable<EcommerceMVC.Models.OrderData>
+
+@{
+    ViewData["Title"] = "AllOrders";
+}
+@Html.ActionLink("OrdersMvc", "print", "OrdersMvc")
+<style>
+    .table{
+        background-color:burlywood;
+    }
+    #bg{
+        background-color:antiquewhite;
+    }
+</style>
+<body id="bg">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.OrderId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OrderDesc)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CreatedDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DispatchedDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Isactive)
+                </th>
+                @*<th>
+                    @Html.DisplayNameFor(model => model.Customerid)
+                </th>*@
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OrderId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OrderDesc)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreatedDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DispatchedDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Isactive)
+                    </td>
+                    @*<td>
+                        @Html.DisplayFor(modelItem => item.Customerid)
+                    </td>*@
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>

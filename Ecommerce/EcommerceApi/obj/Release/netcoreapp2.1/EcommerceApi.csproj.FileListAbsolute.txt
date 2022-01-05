@@ -1,0 +1,24 @@
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceApi.deps.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceApi.runtimeconfig.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceApi.runtimeconfig.dev.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceApi.dll
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceApi.csproj\EcommerceApi.pdb
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\obj\Release\netcoreapp2.1\EcommerceApi.csprojAssemblyReference.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\obj\Release\netcoreapp2.1\EcommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\obj\Release\netcoreapp2.1\EcommerceApi.RazorAssemblyInfo.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\obj\Release\netcoreapp2.1\EcommerceApi.RazorAssemblyInfo.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\obj\Release\netcoreapp2.1\EcommerceApi.AssemblyInfoInputs.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\obj\Release\netcoreapp2.1\EcommerceApi.AssemblyInfo.cs
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\obj\Release\netcoreapp2.1\EcommerceApi.RazorTargetAssemblyInfo.cache
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\obj\Release\netcoreapp2.1\EcommerceApi.dll
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\obj\Release\netcoreapp2.1\EcommerceApi.pdb
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceApi.deps.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceApi.runtimeconfig.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceApi.runtimeconfig.dev.json
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceApi.dll
+\\nanasvdi01\userdata$\s343417\Application Data\Synopsys\desktop\extension\buildoutputs\Ecommerce.sln\EcommerceMVC.csproj\EcommerceApi.pdb
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\bin\Release\netcoreapp2.1\EcommerceApi.deps.json
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\bin\Release\netcoreapp2.1\EcommerceApi.runtimeconfig.json
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\bin\Release\netcoreapp2.1\EcommerceApi.runtimeconfig.dev.json
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\bin\Release\netcoreapp2.1\EcommerceApi.dll
+C:\Users\s343417\source\repos\Ecommerce\EcommerceApi\bin\Release\netcoreapp2.1\EcommerceApi.pdb
